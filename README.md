@@ -13,3 +13,4 @@ https://zjq-lab.github.io/vimx/
 - `index.html`：游戏页面
 - `3d_shooter_touch-2.html`：原始游戏页面
 - `three.min.js`：Three.js 库
+## 注:下载游戏文件时请连带tree.min.js一起下载，并放在同一文件夹中，否则游戏无法运行
